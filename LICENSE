@@ -11,10 +11,10 @@ Copyright (c) 2026 xiu-hu404
 时，应保留本许可、版权声明及第三方声明，修改版须说明已作修改。
 
 2. 禁止商业用途
-不得将本软件或其修改版用于商业或营利目的，包括公司及其他营利组织内部
-使用、商业工作、转售、付费下载、捆绑销售、收费提供软件功能或通过软件
-进行广告变现。免费获得软件或免费向他人提供软件，不会使商业用途变为
-非商业用途。商业使用需要另行取得权利人的书面许可。
+不得将本软件或其修改版用于商业或营利目的，包括商业工作、转售、付费
+下载、捆绑销售、收费提供软件功能或通过软件进行广告变现。免费获得软件
+或免费向他人提供软件，不会使商业用途变为非商业用途。商业使用需要另行
+取得权利人的书面许可。
 
 3. 源码与第三方权利
 本软件以闭源形式分发，本许可不要求权利人提供源码，未授予的权利予以保留。
@@ -39,9 +39,9 @@ Modified versions must identify that they have been modified.
 
 2. No commercial use
 The software and modified versions must not be used for commercial or for-profit
-purposes. This includes internal use by companies or other for-profit organizations,
-commercial work, resale, paid downloads, paid bundles, charging for access to the
-software's functionality, or monetizing the software through advertising. Obtaining
+purposes. This includes commercial work, resale, paid downloads, paid bundles,
+charging for access to the software's functionality, or monetizing the software
+through advertising. Obtaining
 or distributing the software free of charge does not make commercial use
 non-commercial. Commercial use requires separate written permission from the
 rights holder.

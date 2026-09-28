@@ -79,6 +79,6 @@ Test-timing advisories are not connected to the floating monitor. Printer-specif
 
 ## License and feedback
 
-Free, closed-source software for **non-commercial use only**. Internal company use is not permitted. Free non-commercial copying, modification, repackaging, and redistribution are allowed; resale, paid bundles, and charging for the software’s functionality are prohibited. See the [license](LICENSE).
+Free, closed-source software for **non-commercial use only**. Free non-commercial copying, modification, repackaging, and redistribution are allowed; resale, paid bundles, and charging for the software’s functionality are prohibited. See the [license](LICENSE).
 
 [Report a problem or suggest an improvement](https://github.com/xiu-hu404/where-is-my-token/issues) · [Privacy](docs/privacy.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)

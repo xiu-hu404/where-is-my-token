@@ -57,6 +57,6 @@ Diese Beta hat noch keine Developer-ID-Signatur und ist nicht von Apple notarisi
 
 ## Lizenz und Rückmeldungen
 
-Kostenlose Software mit nicht öffentlichem Quellcode, **ausschließlich für nichtkommerzielle Zwecke**. Auch die interne Nutzung in Unternehmen ist nicht erlaubt. Kostenloses Kopieren, Ändern, Neuverpacken und Weitergeben ist für nichtkommerzielle Zwecke gestattet. Weiterverkauf, kostenpflichtige Bündelangebote und der entgeltliche Zugang zu den Softwarefunktionen sind untersagt. Einzelheiten stehen in der [Lizenz](LICENSE).
+Kostenlose Software mit nicht öffentlichem Quellcode, **ausschließlich für nichtkommerzielle Zwecke**. Kostenloses Kopieren, Ändern, Neuverpacken und Weitergeben ist für nichtkommerzielle Zwecke gestattet. Weiterverkauf, kostenpflichtige Bündelangebote und der entgeltliche Zugang zu den Softwarefunktionen sind untersagt. Einzelheiten stehen in der [Lizenz](LICENSE).
 
 [Problem melden oder Verbesserung vorschlagen](https://github.com/xiu-hu404/where-is-my-token/issues) · [Datenschutz](docs/privacy.md) · [Drittanbieterhinweise](THIRD_PARTY_NOTICES.md)

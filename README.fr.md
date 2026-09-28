@@ -57,6 +57,6 @@ Cette bêta ne dispose pas encore d’une signature Developer ID ni de la notari
 
 ## Licence et retours
 
-Logiciel gratuit, à code source fermé, réservé à un **usage non commercial**. L’utilisation interne en entreprise n’est pas autorisée. La copie, la modification, le reconditionnement et la redistribution sont permis gratuitement à des fins non commerciales. La revente, l’inclusion dans une offre payante et la facturation de l’accès aux fonctions du logiciel sont interdites. Consultez la [licence](LICENSE).
+Logiciel gratuit, à code source fermé, réservé à un **usage non commercial**. La copie, la modification, le reconditionnement et la redistribution sont permis gratuitement à des fins non commerciales. La revente, l’inclusion dans une offre payante et la facturation de l’accès aux fonctions du logiciel sont interdites. Consultez la [licence](LICENSE).
 
 [Signaler un problème ou proposer une amélioration](https://github.com/xiu-hu404/where-is-my-token/issues) · [Confidentialité](docs/privacy.md) · [Mentions relatives aux tiers](THIRD_PARTY_NOTICES.md)
