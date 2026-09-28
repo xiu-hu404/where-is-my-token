@@ -19,7 +19,7 @@ Choose `Where-is-my-token-0.1.0-beta.4-macOS-arm64.zip` for **Apple Silicon Macs
 
 Run `Disable.command` to stop monitoring and disable automatic startup. Settings and usage data are kept.
 
-This is a free, closed-source distribution for **non-commercial use only**. Internal company use and resale are not permitted. Free non-commercial sharing and modification are allowed under [the license](https://github.com/xiu-hu404/where-is-my-token/blob/main/LICENSE). `SHA256SUMS.txt` contains checksums for the attached installer.
+This is a free, closed-source distribution for **non-commercial use only**. Resale is not permitted. Free non-commercial sharing and modification are allowed under [the license](https://github.com/xiu-hu404/where-is-my-token/blob/main/LICENSE). `SHA256SUMS.txt` contains checksums for the attached installer.
 
 ### Before you try it
 
@@ -48,7 +48,7 @@ Usage statistics stay local. The monitor does not send messages to Codex, make a
 
 运行 `Disable.command` 可退出监测并关闭自动启动，设置与统计保留。
 
-本软件免费闭源分发，**仅限非商业用途，公司内部使用和转售也不允许**。按[许可条款](https://github.com/xiu-hu404/where-is-my-token/blob/main/LICENSE)可免费进行非商业的分享和修改。`SHA256SUMS.txt` 提供安装包的校验值。
+本软件免费闭源分发，**仅限非商业用途，禁止转售**。按[许可条款](https://github.com/xiu-hu404/where-is-my-token/blob/main/LICENSE)可免费进行非商业的分享和修改。`SHA256SUMS.txt` 提供安装包的校验值。
 
 ### 测试版说明
 
